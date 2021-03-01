@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coin</string>
+    <string name="Fondo.view"></string>
+    <string name="logo.image"></string>
+    <string name="iniciar_sesi_n">Iniciar Sesion.</string>
+    <string name="registrate">Registrate.</string>
+    <string name="sesion">Iniciar sesion</string>
+    <string name="Correo.txt">Correo.</string>
+    <string name="Contraseña.txt">Contraseña.</string>
+    <string name="Ir.txt">Ir.</string>
+    <string name="Contraseña">Name</string>
+</resources>
